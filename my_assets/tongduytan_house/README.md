@@ -19,6 +19,6 @@ Tọa độ: 21.029468, 105.8439603. Nằm gần đầu phố, ngay cạnh Ngõ 
 
 ## Cho thuê
 
-- Đang cho thuê làm **nhà hàng**
+- Đang cho thuê làm **nhà hàng** — [The East](https://theeast.vn/)
 - Giá thuê: **57 triệu VND/tháng**
 - Hợp đồng hết hạn: **tháng 9/2027**
