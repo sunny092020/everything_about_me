@@ -13,6 +13,7 @@
 | Diện tích tầng 1 | 100 m² |
 | Diện tích tầng 2 | 60 m² |
 | Mặt tiền | 3.3 m |
+| Bề ngang phía trong | Nở hậu, tới 10 m |
 
 ## Cho thuê
 
