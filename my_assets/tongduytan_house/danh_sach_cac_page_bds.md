@@ -96,3 +96,69 @@
 ---
 
 > Luu y: Cac link Facebook group co the thay doi, nen tim truc tiep tren Facebook bang tu khoa. So thanh vien la uoc tinh va co the thay doi theo thoi gian.
+
+---
+
+## Bo sung 2026-03-09
+
+> Cac link Facebook Page / YouTube / TikTok ben duoi da duoc doi chieu tu website chinh thuc trong ngay 2026-03-09. Phan nay chi them, khong xoa noi dung cu.
+
+### Facebook Page / Fanpage bo sung
+
+| Ten page | Link | Ghi chu |
+|----------|------|---------|
+| OneHousing | https://www.facebook.com/itsonehousing/ | Fanpage chinh thuc, thay tren onehousing.vn |
+| Rever | https://www.facebook.com/rever.vn/ | Fanpage chinh thuc, thay tren rever.vn |
+| Masterise Homes | https://www.facebook.com/Masterise-Homes-103733531072455/ | Fanpage chinh thuc, thay tren masterisehomes.com |
+| Thanh pho Xanh Ecopark | https://www.facebook.com/ecopark.com.vn | Fanpage chinh thuc, thay tren ecopark.com.vn |
+| Mogi | https://www.facebook.com/mogivietnam | Fanpage chinh thuc, thay tren mogi.vn |
+| Homedy.com | https://www.facebook.com/homedycom/ | Fanpage chinh thuc, thay tren homedy.com |
+| BDS68 | https://www.facebook.com/bds68.vn | Fanpage chinh thuc, thay tren bds68.com.vn |
+| Khang Dien House | https://www.facebook.com/KhangDienHouse | Fanpage chinh thuc, thay tren khangdien.com.vn |
+
+### Kenh YouTube BDS bo sung
+
+| Ten kenh | Link | Ghi chu |
+|----------|------|---------|
+| OneHousing | https://www.youtube.com/@onehousingvn | Kenh chinh thuc |
+| REVER | https://www.youtube.com/channel/UCGqD_zho0DQyxXJ3G65NmSQ | Kenh chinh thuc |
+| Mogi | https://www.youtube.com/@MogiVNchannel | Kenh chinh thuc |
+| Tap doan Dat Xanh | https://www.youtube.com/channel/UCjINAyqjfv1Hpq9ClS03jww | Kenh chinh thuc |
+| Masterise Homes | https://www.youtube.com/channel/UCtqTMiegG6WCAXoOVG4FeFg | Kenh chinh thuc |
+| EcoparkOfficial | https://www.youtube.com/user/EcoparkOfficial | Kenh chinh thuc |
+| Tap doan Khang Dien - KDH | https://www.youtube.com/@KhangDienHouse | Kenh chinh thuc |
+
+### Kenh TikTok BDS bo sung
+
+| Ten kenh | Link | Ghi chu |
+|----------|------|---------|
+| @cafelandtv_official | https://www.tiktok.com/@cafelandtv_official | Official, thay tren cafeland.vn |
+| @onehousingofficial | https://www.tiktok.com/@onehousingofficial | Official, thay tren onehousing.vn |
+| @mogi.official | https://www.tiktok.com/@mogi.official | Official, thay tren mogi.vn |
+
+### Tu khoa tim nhom Facebook BDS bo sung
+
+| Cum tu khoa | Nen tim tren Facebook | Ghi chu |
+|-------------|------------------------|---------|
+| Nha dat chinh chu TP HCM | "nha dat chinh chu TP HCM" | Thuong co ca chu nha, moi gioi, sale |
+| Mua ban can ho chung cu TP HCM | "mua ban can ho chung cu TP HCM" | Tap trung can ho, apartment |
+| Cho thue can ho TP HCM | "cho thue can ho TP HCM" | Phu hop nhu cau cho thue / thue nhanh |
+| Nha dat chinh chu Ha Noi | "nha dat chinh chu Ha Noi" | Nguon tim nha dat khu vuc Ha Noi |
+| Mua ban can ho chung cu Ha Noi | "mua ban can ho chung cu Ha Noi" | Nhieu nhom dang hoat dong theo tung quan |
+| Dau tu bat dong san toan quoc | "dau tu bat dong san toan quoc" | Nhieu bai phan tich, keo du an, networking |
+| Cong dong moi gioi bat dong san | "cong dong moi gioi bat dong san" | Danh cho moi gioi, sales, leader |
+| BDS Hai Phong | "BDS Hai Phong" | Tim nhom theo dia phuong |
+| BDS Can Tho | "BDS Can Tho" | Tim nhom theo dia phuong |
+| BDS Vung Tau | "BDS Vung Tau" | Tim nhom theo dia phuong |
+| BDS Phu Quoc | "BDS Phu Quoc" | Tim nhom theo dia phuong |
+| Dat nen Dong Nai | "dat nen Dong Nai" | Nhieu nhom tap trung dat nen / phan lo |
+| Dat nen Binh Duong | "dat nen Binh Duong" | Nhieu nhom theo khu cong nghiep / dan cu |
+| BDS Bac Ninh | "BDS Bac Ninh" | Nhieu nhom theo song cong nghiep, dau tu |
+| BDS Hung Yen | "BDS Hung Yen" | Nhieu nhom lien quan Ecopark, Van Giang |
+
+### Dien dan / cong dong thao luan bo sung
+
+| Ten | Link | Ghi chu |
+|-----|------|---------|
+| VOZ - Bat dong san | https://voz.vn/f/bat-dong-san.79/ | Muc thao luan BDS tren VOZ |
+| Nha dat CafeLand | https://nhadat.cafeland.vn | Cong dong tin tuc, rao ban, cho thue nha dat |
