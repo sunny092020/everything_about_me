@@ -30,20 +30,10 @@
 
 | Ten nhom | Link / Tu khoa tim kiem | Thanh vien (uoc tinh) |
 |----------|------------------------|----------------------|
-| Mua Ban Nha Dat TP HCM | Tim "Mua Ban Nha Dat TP HCM" tren FB | 200k+ |
-| Bat Dong San TP Ho Chi Minh | Tim "Bat Dong San TP Ho Chi Minh" tren FB | 300k+ |
 | Mua Ban Nha Dat Ha Noi | Tim "Mua Ban Nha Dat Ha Noi" tren FB | 200k+ |
 | Bat Dong San Ha Noi | Tim "Bat Dong San Ha Noi" tren FB | 150k+ |
 | Hoi Mua Ban Nha Dat Toan Quoc | Tim "Hoi Mua Ban Nha Dat Toan Quoc" tren FB | 500k+ |
 | Dau Tu Bat Dong San | Tim "Dau Tu Bat Dong San" tren FB | 100k+ |
-| Nha Dat Binh Duong | Tim "Nha Dat Binh Duong" tren FB | 100k+ |
-| Bat Dong San Da Nang | Tim "Bat Dong San Da Nang" tren FB | 50k+ |
-| Bat Dong San Long An | Tim "Bat Dong San Long An" tren FB | 50k+ |
-| Bat Dong San Dong Nai | Tim "Bat Dong San Dong Nai" tren FB | 50k+ |
-| BDS Nha Trang Khanh Hoa | Tim "BDS Nha Trang Khanh Hoa" tren FB | 30k+ |
-| Mua ban cho thue nha dat Quan 7 | Tim tren FB | |
-| Mua ban cho thue nha dat Thu Duc | Tim tren FB | |
-| Mua ban cho thue nha dat Binh Thanh | Tim tren FB | |
 
 ## Facebook Page
 
@@ -140,21 +130,10 @@
 
 | Cum tu khoa | Nen tim tren Facebook | Ghi chu |
 |-------------|------------------------|---------|
-| Nha dat chinh chu TP HCM | "nha dat chinh chu TP HCM" | Thuong co ca chu nha, moi gioi, sale |
-| Mua ban can ho chung cu TP HCM | "mua ban can ho chung cu TP HCM" | Tap trung can ho, apartment |
-| Cho thue can ho TP HCM | "cho thue can ho TP HCM" | Phu hop nhu cau cho thue / thue nhanh |
 | Nha dat chinh chu Ha Noi | "nha dat chinh chu Ha Noi" | Nguon tim nha dat khu vuc Ha Noi |
 | Mua ban can ho chung cu Ha Noi | "mua ban can ho chung cu Ha Noi" | Nhieu nhom dang hoat dong theo tung quan |
 | Dau tu bat dong san toan quoc | "dau tu bat dong san toan quoc" | Nhieu bai phan tich, keo du an, networking |
 | Cong dong moi gioi bat dong san | "cong dong moi gioi bat dong san" | Danh cho moi gioi, sales, leader |
-| BDS Hai Phong | "BDS Hai Phong" | Tim nhom theo dia phuong |
-| BDS Can Tho | "BDS Can Tho" | Tim nhom theo dia phuong |
-| BDS Vung Tau | "BDS Vung Tau" | Tim nhom theo dia phuong |
-| BDS Phu Quoc | "BDS Phu Quoc" | Tim nhom theo dia phuong |
-| Dat nen Dong Nai | "dat nen Dong Nai" | Nhieu nhom tap trung dat nen / phan lo |
-| Dat nen Binh Duong | "dat nen Binh Duong" | Nhieu nhom theo khu cong nghiep / dan cu |
-| BDS Bac Ninh | "BDS Bac Ninh" | Nhieu nhom theo song cong nghiep, dau tu |
-| BDS Hung Yen | "BDS Hung Yen" | Nhieu nhom lien quan Ecopark, Van Giang |
 
 ### Dien dan / cong dong thao luan bo sung
 
