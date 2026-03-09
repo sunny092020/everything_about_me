@@ -12,7 +12,7 @@ Tọa độ: 21.029468, 105.8439603. Nằm gần đầu phố, ngay cạnh Ngõ 
 
 | Hạng mục | Chi tiết |
 |---|---|
-| Diện tích tầng 1 | 100 m² |
+| Diện tích tầng 1 | 100 m² x|
 | Diện tích tầng 2 | 60 m² |
 | Mặt tiền | 3.3 m |
 | Bề ngang phía trong | Nở hậu, tới 10 m |
@@ -20,8 +20,5 @@ Tọa độ: 21.029468, 105.8439603. Nằm gần đầu phố, ngay cạnh Ngõ 
 ## Cho thuê
 
 - Đang cho thuê làm **nhà hàng** — [The East](https://theeast.vn/)
-- Giá thuê: **57 triệu VND/tháng**
-- Hợp đồng ký từ **2022** (ngay sau dịch COVID, giá ban đầu 50 triệu/tháng)
 - Hợp đồng hết hạn: **tháng 9/2027**
-- Hạ tầng: **PCCC/điện nước tốt**
-- Tình trạng nhà: cũ, chưa cải tạo
+- Hạ tầng: **PCCC/điện nước tốt/ sẵn sàng cho vận hành nhà hàng **
