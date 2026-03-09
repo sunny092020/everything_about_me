@@ -229,6 +229,7 @@
 | Houseviet.vn | https://houseviet.vn | Tin rao ban/cho thue nha dat |
 | Tinnhadata.com | https://tinnhadata.com | Tong hop tin nha dat |
 | Nha Tot (Cho Tot) | https://www.nhatot.com/mua-ban-bat-dong-san-ha-noi | Cho Tot rebrand, co muc BDS Ha Noi |
+| Savills Vietnam | https://vn.savills.com.vn | Don vi tu van, bao cao va insight thi truong BDS |
 | VnExpress - Bat dong san | https://vnexpress.net/bat-dong-san | Tin tuc thi truong BDS |
 | CafeF - Bat dong san | https://cafef.vn/bat-dong-san.chn | Tin tuc tai chinh BDS |
 | Thanh Nien - Bat dong san | https://thanhnien.vn/bat-dong-san.htm | Tin tuc BDS |
