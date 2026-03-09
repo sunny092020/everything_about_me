@@ -3,20 +3,26 @@
 Mục tiêu:
 - Ước tính giá thuê thị trường ở thời điểm hiện tại.
 - Dự báo giá thuê danh nghĩa tại thời điểm 09/2027.
+- Đơn vị kết quả là `VND/tháng` cho toàn bộ căn nhà.
+- Giá cần ước tính là số tiền thực thu về cho chủ nhà; người đi thuê tự trả các loại thuế và chi phí phát sinh của bên thuê.
 
 Nguồn tham khảo:
 - Chỉ sử dụng các nguồn được liệt kê trong `my_assets/tongduytan_house/danh_sach_cac_page_bds.md`.
 - Chỉ dùng URL của từng tin đăng cụ thể (`individual listing`), không dùng trang search result, trang danh mục, trang tổng hợp, bài phân tích thị trường, forum thread, Facebook group/page feed, video hoặc nội dung không phải tin đăng riêng lẻ.
 - Loại bỏ mọi nguồn hoặc tin đăng không có thời gian đăng tin rõ ràng, hoặc không kiểm chứng được là đăng trong vòng 3 tháng trở lại đây tính từ ngày thực hiện.
 - Không bắt buộc phải dùng hết mọi nguồn trong danh sách; chỉ dùng các nguồn nào thực sự có tin đăng phù hợp và đạt tiêu chí trên.
+- Trong kết quả phải ghi rõ ngày thực hiện và cửa sổ thời gian đã dùng để lọc tin.
 
 Nguyên tắc định giá:
 - Ưu tiên các tin cho thuê nhà mặt phố, mặt bằng kinh doanh, hoặc tài sản thương mại có vị trí, diện tích, mặt tiền, độ nhận diện và công năng gần với căn nhà trong README.
-- Với mỗi tin so sánh, ghi rõ: URL, thời gian đăng, giá chào thuê, diện tích, mặt tiền, vị trí và ghi chú mức độ tương đồng.
+- Bắt buộc xét riêng cơ cấu diện tích sử dụng, tối thiểu phải tách tầng 1 và các tầng trên khi so sánh; không chỉ so sánh theo tổng diện tích gộp. Ưu tiên comp có tầng 1 lớn, mặt tiền hẹp nhưng nhận diện tốt, phù hợp khai thác nhà hàng hoặc bán lẻ.
+- Với mỗi tin so sánh, ghi rõ: URL, thời gian đăng, giá chào thuê, diện tích, cơ cấu tầng nếu có, mặt tiền, vị trí và ghi chú mức độ tương đồng.
 - Xem giá đăng trên mạng là giá chào thuê, không mặc định bằng giá chốt thực tế. Khi suy ra giá thuê thị trường, có thể điều chỉnh tăng hoặc giảm tùy chất lượng tin, mức độ tương đồng và bối cảnh thị trường, nhưng phải giải thích rõ lý do.
 - Nếu số lượng comp chất lượng thấp hoặc chênh lệch lớn, phải nêu rõ độ bất định thay vì cố chốt một con số quá chính xác.
+- Phải tách bạch giữa `giá thuê thị trường` và `giá chào thuê đề xuất` nếu có đề xuất thêm. Không được dùng hai khái niệm này thay cho nhau.
 
 Kết quả cần trả ra:
-- Một khoảng giá thuê thị trường hiện tại và một mức khuyến nghị hợp lý.
-- Một khoảng dự báo giá thuê danh nghĩa tại 09/2027 và giả định chính dùng cho dự báo.
+- Một khoảng giá thuê thị trường hiện tại bằng `VND/tháng` cho toàn bộ căn nhà, theo cơ sở giá thực thu về cho chủ nhà.
+- Nếu đề xuất thêm giá chào thuê, phải ghi thành một mục riêng và nêu rõ logic chênh lệch so với giá thuê thị trường.
+- Một khoảng dự báo giá thuê danh nghĩa tại 09/2027 và giả định chính dùng cho dự báo, bao gồm ít nhất cách suy diễn từ mức hiện tại sang 09/2027.
 - Bảng comp ngắn gọn, chỉ gồm các tin đạt tiêu chí lọc ở trên.
