@@ -141,3 +141,73 @@
 |-----|------|---------|
 | VOZ - Bat dong san | https://voz.vn/f/bat-dong-san.79/ | Muc thao luan BDS tren VOZ |
 | Nha dat CafeLand | https://nhadat.cafeland.vn | Cong dong tin tuc, rao ban, cho thue nha dat |
+
+---
+
+## Bo sung Ha Noi 2026-03-09
+
+> Phan nay chi them danh sach lien quan den thi truong BDS Ha Noi. Cac link duoi day duoc doi chieu trong ngay 2026-03-09 tu website chinh thuc hoac ket qua tim kiem cong khai.
+
+### Website / page BDS Ha Noi
+
+| Ten | Link | Ghi chu |
+|-----|------|---------|
+| Batdongsan.com.vn - Nha dat ban Ha Noi | https://batdongsan.com.vn/nha-dat-ban-ha-noi | Trang loc tin ban nha dat tai Ha Noi |
+| Batdongsan.com.vn - Nha dat cho thue Ha Noi | https://batdongsan.com.vn/nha-dat-cho-thue-ha-noi | Trang loc tin cho thue tai Ha Noi |
+| Mogi - Mua nha dat Ha Noi | https://mogi.vn/ha-noi/mua-nha-dat | Rao ban nha dat khu vuc Ha Noi |
+| Cho Tot Nha - BDS Ha Noi | https://www.chotot.com/mua-ban-bat-dong-san-ha-noi | Rao vat mua ban BDS tai Ha Noi |
+| BDS68 - Nha dat Ha Noi | https://bds68.com.vn/mua-ban-nha-dat/ha-noi | Tong hop tin dang ban tai Ha Noi |
+| Alonhadat - Ha Noi | https://alonhadat.com.vn/nha-dat/can-ban/nha-dat/1/ha-noi.html | Tin dang nha dat Ha Noi |
+| OneHousing - Chu de mua nha mat dat Ha Noi | https://onehousing.vn/blog/tag/mua-nha-mat-dat-ha-noi | Chu de rieng ve mua nha dat Ha Noi |
+| HaNoi Home | https://hanoihome.com.vn/ | Dich vu va thong tin nha dat/cho thue tai Ha Noi |
+| Ban Nha Dat Ha Dong | https://bannhadathadong.com/ | Site tap trung khu vuc Ha Dong |
+| Nha Dat Ha Dong | https://nhadathadong.com.vn/ | Site tap trung tin dang khu vuc Ha Dong |
+
+### Dien dan / cong dong thao luan co the dung de tim BDS Ha Noi
+
+| Ten | Link | Ghi chu |
+|-----|------|---------|
+| Dien dan Batdongsan.com.vn | https://forum.batdongsan.com.vn/ | Nen tim them tu khoa "Ha Noi", "Ha Dong", "Tay Ho", "Cau Giay" |
+| VOZ - Bat dong san | https://voz.vn/f/bat-dong-san.79/ | Co nhieu chu de gia nha dat Ha Noi |
+| Nha Dat Club | https://nhadatclub.com/ | Cong dong tin dang va bai viet, co nhieu bai khu vuc Ha Dong |
+| Top Group Facebook BDS Ha Noi | https://www.tuannhapho.com/top-group-facebook-bat-dong-san-nha-dat-ha-noi | Bai tong hop nhom/cong dong BDS khu vuc Ha Noi |
+
+### Nhom Facebook BDS Ha Noi
+
+| Ten nhom | Link / Tu khoa tim kiem | Ghi chu |
+|----------|------------------------|---------|
+| Mua Ban Bat Dong San Ha Noi - Chinh Chu | Tim "Mua Ban Bat Dong San Ha Noi - Chinh Chu" tren Facebook | Duoc tong hop boi tuannhapho.com |
+| HOI MUA BAN CHUNG CU - NHA DAT HA NOI | Tim "HOI MUA BAN CHUNG CU - NHA DAT HA NOI" tren Facebook | Nhom mua ban can ho va nha dat tai Ha Noi |
+| Hoi mua ban nha, dat khong qua moi gioi tai Ha Noi | Tim dung cum tu nay tren Facebook | Phu hop nhu cau mua ban chinh chu |
+| Cong dong dung mua nha Ha Noi de tranh ngao gia | Tim dung cum tu nay tren Facebook | Nhom thao luan gia nha Ha Noi |
+| Nha dat tho cu khu vuc Ha Noi | Tim "nha dat tho cu khu vuc Ha Noi" tren Facebook | Phu hop tim nha tho cu/noi do |
+| Mua ban nha dat Ha Dong | Tim "mua ban nha dat Ha Dong" tren Facebook | Nhom theo quan Ha Dong |
+| Mua ban can ho chung cu Ha Noi | Tim "mua ban can ho chung cu Ha Noi" tren Facebook | Nhieu nhom dang hoat dong theo tung quan |
+
+### Facebook Page BDS Ha Noi
+
+| Ten page | Link | Ghi chu |
+|----------|------|---------|
+| OneHousing | https://www.facebook.com/itsonehousing/ | Fanpage chinh thuc, noi dung BDS tap trung manh o Ha Noi |
+| HaNoi Home Official | https://www.facebook.com/HaNoiHomeOfficial/ | Fanpage ve nha dat/cho thue tai Ha Noi |
+| ThuocBM | https://www.facebook.com/ThuocBM | Fanpage tu tbmhome.com |
+| Nha Dat Club | https://www.facebook.com/nhadatclubcom | Fanpage cong dong nha dat |
+
+### Kenh YouTube BDS Ha Noi
+
+| Ten kenh | Link | Ghi chu |
+|----------|------|---------|
+| OneHousing | https://www.youtube.com/@onehousingvn | Kenh chinh thuc, co nhieu noi dung thi truong Ha Noi |
+| HaNoi Home | https://www.youtube.com/c/HaNoiHome/featured | Kenh nha dat/cho thue Ha Noi |
+| Nha Trong Pho | https://youtube.com/nhatrongpho/ | Kenh tu tbmhome.com |
+| TBM Home | https://youtube.com/tbmhome/ | Kenh bo sung tu tbmhome.com |
+
+### Kenh TikTok BDS Ha Noi
+
+| Ten kenh | Link | Ghi chu |
+|----------|------|---------|
+| @onehousingofficial | https://www.tiktok.com/@onehousingofficial | Official, thay tren onehousing.vn |
+| @hanoihomeofficial | https://www.tiktok.com/@hanoihomeofficial | Kenh HaNoi Home |
+| @nhadatchinhchu86 | https://www.tiktok.com/@nhadatchinhchu86 | Kenh "Nha Dat Ha Noi 86", tim thay qua TikBuddy |
+
+> Luu y: Mot so Facebook Group co the yeu cau dang nhap de xem day du. Neu link / ten nhom thay doi, uu tien tim bang cum tu khoa di kem trong bang.
