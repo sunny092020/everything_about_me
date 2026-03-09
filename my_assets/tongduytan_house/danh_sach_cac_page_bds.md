@@ -30,6 +30,11 @@
 | Houseviet.vn | https://houseviet.vn | Tin rao ban/cho thue nha dat |
 | Tinnhadata.com | https://tinnhadata.com | Tong hop tin nha dat |
 | Savills Vietnam | https://vn.savills.com.vn | Don vi tu van, bao cao va insight thi truong BDS |
+| Dothi.net | https://dothi.net | Rao vat nha dat, tin tuc, phong thuy, thiet ke |
+| Bannha.net | https://bannha.net | San mua ban, cho thue, ky gui BDS tu 2005 |
+| Muabannhadat.vn | https://muabannhadat.vn | ~1 trieu luot truy cap/thang, 8000+ tin dang/ngay |
+| Nhadat24h.net | https://nhadat24h.net | San giao dich BDS truc tuyen |
+| Bdsweb.com.vn | https://bdsweb.com.vn | Tong hop website dang tin BDS mien phi |
 
 ### Tin tuc BDS
 
@@ -41,6 +46,8 @@
 | Dan Tri - Bat dong san | https://dantri.com.vn/bat-dong-san.htm | Tin tuc BDS |
 | InfoNet - Bat dong san | https://infonet.vietnamnet.vn/bat-dong-san | Tin tuc BDS |
 | OneHousing - Cua So BDS / Thi truong | https://onehousing.vn/blog/cat/thi-truong | Thuong xuyen co bai phan tich thi truong, trong do co Ha Noi |
+| Reatimes.vn | https://reatimes.vn | Tap chi dien tu Bat dong san Viet Nam, tin tuc chinh sach, phap ly, quy hoach |
+| Nguoi Quan Sat - BDS | https://nguoiquansat.vn | Tin tuc kinh te, co nhieu bai phan tich BDS |
 
 ### Khu vuc Ha Noi
 
@@ -57,6 +64,11 @@
 | HaNoi Home | https://hanoihome.com.vn/ | Dich vu va thong tin nha dat/cho thue tai Ha Noi |
 | Ban Nha Dat Ha Dong | https://bannhadathadong.com/ | Site tap trung khu vuc Ha Dong |
 | Nha Dat Ha Dong | https://nhadathadong.com.vn/ | Site tap trung tin dang khu vuc Ha Dong |
+| BDSHanoi.com.vn | https://bdshanoi.com.vn | Cong thong tin BDS Ha Noi, chuyen Tay Ho, Ciputra, Starlake |
+| BDSHanoi.vn | https://bdshanoi.vn | Thong tin nha dat Ha Noi, phap ly ro rang |
+| BDSHanoi.org | https://bdshanoi.org | Trang mua ban BDS uy tin tai Ha Noi |
+| Tinbds.com - Ha Noi | https://tinbds.com/tin-tuc/ha-noi | Tin tuc BDS Ha Noi cap nhat |
+| CafeLand - Du an Ha Noi | https://cafeland.vn/du-an/tai-ha-noi/ | Danh sach du an BDS tai Ha Noi |
 
 ---
 
