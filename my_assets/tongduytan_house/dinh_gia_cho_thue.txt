@@ -17,6 +17,10 @@ Nguyên tắc định giá:
 - Ưu tiên các tin cho thuê nhà mặt phố, mặt bằng kinh doanh, hoặc tài sản thương mại có vị trí, diện tích, mặt tiền, độ nhận diện và công năng gần với căn nhà trong README.
 - Bắt buộc xét riêng cơ cấu diện tích sử dụng, tối thiểu phải tách tầng 1 và các tầng trên khi so sánh; không chỉ so sánh theo tổng diện tích gộp. Ưu tiên comp có tầng 1 lớn, mặt tiền hẹp nhưng nhận diện tốt, phù hợp khai thác nhà hàng hoặc bán lẻ.
 - Với mỗi tin so sánh, ghi rõ: URL, thời gian đăng, giá chào thuê, diện tích, cơ cấu tầng nếu có, mặt tiền, vị trí và ghi chú mức độ tương đồng.
+- Chuẩn hóa mọi comp về cùng một basis là `net-to-owner`: `VND/tháng` cho toàn bộ căn nhà, là số tiền chủ nhà thực thu; các loại thuế và chi phí phía bên thuê được coi là bên thuê trả riêng.
+- Nếu tin đăng ghi rõ `chưa bao gồm VAT`, `chưa bao gồm thuế`, `thuế bên thuê chịu`, hoặc tách riêng các khoản phí do bên thuê trả, thì dùng thông tin đó để quy đổi comp về `net-to-owner`.
+- Nếu tin đăng ghi giá đã bao gồm VAT hoặc bao gồm một phần phí, chỉ được dùng khi tách và quy đổi được các khoản đó về `net-to-owner`; nếu không tách được thì chỉ dùng làm tham khảo phụ với trọng số thấp, hoặc loại bỏ.
+- Nếu tin đăng không nói rõ VAT, thuế hay các khoản phí liên quan, phải gắn nhãn `basis không rõ`. Các comp dạng này không được dùng làm comp chính nếu đã có đủ comp rõ basis; nếu vẫn dùng thì phải ghi rõ giả định chuẩn hóa và hạ trọng số.
 - Xem giá đăng trên mạng là giá chào thuê, không mặc định bằng giá chốt thực tế. Khi suy ra giá thuê thị trường, có thể điều chỉnh tăng hoặc giảm tùy chất lượng tin, mức độ tương đồng và bối cảnh thị trường, nhưng phải giải thích rõ lý do.
 - Nếu số lượng comp chất lượng thấp hoặc chênh lệch lớn, phải nêu rõ độ bất định thay vì cố chốt một con số quá chính xác.
 - Phải tách bạch giữa `giá thuê thị trường` và `giá chào thuê đề xuất` nếu có đề xuất thêm. Không được dùng hai khái niệm này thay cho nhau.
@@ -25,4 +29,4 @@ Kết quả cần trả ra:
 - Một khoảng giá thuê thị trường hiện tại bằng `VND/tháng` cho toàn bộ căn nhà, theo cơ sở giá thực thu về cho chủ nhà.
 - Nếu đề xuất thêm giá chào thuê, phải ghi thành một mục riêng và nêu rõ logic chênh lệch so với giá thuê thị trường.
 - Một khoảng dự báo giá thuê danh nghĩa tại 09/2027 và giả định chính dùng cho dự báo, bao gồm ít nhất cách suy diễn từ mức hiện tại sang 09/2027.
-- Bảng comp ngắn gọn, chỉ gồm các tin đạt tiêu chí lọc ở trên.
+- Bảng comp ngắn gọn, chỉ gồm các tin đạt tiêu chí lọc ở trên; với mỗi comp phải thể hiện được `basis` ban đầu của giá đăng và giá đã chuẩn hóa về `net-to-owner` nếu có đủ dữ liệu.
