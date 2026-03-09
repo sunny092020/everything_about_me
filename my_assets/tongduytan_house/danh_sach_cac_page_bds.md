@@ -80,6 +80,8 @@
 | Cafeland Forum | https://cafeland.vn/dien-dan/ | |
 | Nha dat CafeLand | https://nhadat.cafeland.vn | Cong dong tin tuc, rao ban, cho thue nha dat |
 | Webtretho (muc BDS) | https://www.webtretho.com | Co muc ban luan BDS |
+| Lamchame.com (muc BDS) | https://www.lamchame.com | Dien dan me va be, co muc ban luan nha dat |
+| OtoFun (muc BDS) | https://www.otofun.net | Dien dan oto, co muc ban luan BDS soi dong |
 | OtoBatDongSan | https://otobatdongsan.com | |
 | VOZ - Bat dong san | https://voz.vn/f/bat-dong-san.79/ | Nhieu chu de gia nha dat Ha Noi |
 | Nha Dat Club | https://nhadatclub.com/ | Cong dong tin dang va bai viet, nhieu bai khu vuc Ha Dong |
