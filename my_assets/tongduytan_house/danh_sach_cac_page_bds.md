@@ -40,6 +40,7 @@
 | Thanh Nien - Bat dong san | https://thanhnien.vn/bat-dong-san.htm | Tin tuc BDS |
 | Dan Tri - Bat dong san | https://dantri.com.vn/bat-dong-san.htm | Tin tuc BDS |
 | InfoNet - Bat dong san | https://infonet.vietnamnet.vn/bat-dong-san | Tin tuc BDS |
+| OneHousing - Cua So BDS / Thi truong | https://onehousing.vn/blog/cat/thi-truong | Thuong xuyen co bai phan tich thi truong, trong do co Ha Noi |
 
 ### Khu vuc Ha Noi
 
@@ -52,6 +53,7 @@
 | BDS68 - Nha dat Ha Noi | https://bds68.com.vn/mua-ban-nha-dat/ha-noi | Tong hop tin dang ban tai Ha Noi |
 | Alonhadat - Ha Noi | https://alonhadat.com.vn/nha-dat/can-ban/nha-dat/1/ha-noi.html | Tin dang nha dat Ha Noi |
 | OneHousing - Mua nha mat dat Ha Noi | https://onehousing.vn/blog/tag/mua-nha-mat-dat-ha-noi | Chu de rieng ve mua nha dat Ha Noi |
+| OneHousing - Du an tai Thanh pho Ha Noi | https://onehousing.vn/tim-kiem-du-an/tai-Thanh-pho-Ha-Noi.01.sa | Bo loc du an rieng cho Ha Noi |
 | HaNoi Home | https://hanoihome.com.vn/ | Dich vu va thong tin nha dat/cho thue tai Ha Noi |
 | Ban Nha Dat Ha Dong | https://bannhadathadong.com/ | Site tap trung khu vuc Ha Dong |
 | Nha Dat Ha Dong | https://nhadathadong.com.vn/ | Site tap trung tin dang khu vuc Ha Dong |
@@ -108,6 +110,10 @@
 | Nha dat chinh chu khong qua trung gian Ha Noi | "nha dat chinh chu khong qua trung gian Ha Noi" | Nhom mua ban truc tiep |
 | BDS Gia Lam Vinhomes Ocean Park | "BDS Gia Lam Vinhomes Ocean Park" | Nhom theo du an lon |
 | BDS Smart City | "BDS Smart City" | Nhom theo du an Vinhomes Smart City |
+| Bat Dong San Ha Noi 24h | https://www.facebook.com/groups/batdongsanhanoi21/ | Group dang tin va thao luan nha dat Ha Noi |
+| BDS Do Thi (Thanh Oai - Ha Dong - Chuong My) | https://www.facebook.com/groups/bdsdothi/ | Phu hop theo doi khu Tay Nam Ha Noi |
+| Cho thue can ho chung cu Ha Noi | https://www.facebook.com/groups/422304615073493/ | Tap trung nhu cau cho thue can ho/chung cu |
+| Chung cu Vinhomes Ocean Park (Mua ban & Cho thue) | https://www.facebook.com/groups/382832556807657/ | Nhom theo du an lon o Gia Lam |
 
 ### Ha Noi theo quan/huyen
 
@@ -146,6 +152,9 @@
 | Meey Land | https://www.facebook.com/meeyland | Fanpage chinh thuc |
 | VARs (Hoi Moi gioi BDS VN) | https://www.facebook.com/hoimoigioibds | Fanpage Hoi Moi gioi BDS Viet Nam |
 | Nha Dat Club | https://www.facebook.com/nhadatclubcom | Fanpage cong dong nha dat |
+| Savills Vietnam | https://www.facebook.com/SavillsVietnam/ | Bao cao, research va insight thi truong; co nhieu noi dung lien quan Ha Noi |
+| CBRE Vietnam | https://www.facebook.com/Vietnamcbre/ | Don vi tu van/research, phu hop theo doi thi truong Ha Noi |
+| Dothi.net | https://www.facebook.com/do.thinet/ | Page cong thong tin tin rao BDS |
 
 ### Chu dau tu / San phan phoi
 
@@ -206,6 +215,8 @@
 | EcoparkOfficial | https://www.youtube.com/user/EcoparkOfficial | Kenh chinh thuc |
 | Tap doan Khang Dien - KDH | https://www.youtube.com/@KhangDienHouse | Kenh chinh thuc |
 | Meey Land TV | https://www.youtube.com/@MeeyLandTV | Kenh chinh thuc Meey Land |
+| Savills Vietnam | Tim "Savills Vietnam" tren YouTube | Kenh phu hop de theo doi bao cao va nhan dinh thi truong, trong do co Ha Noi |
+| CBRE Vietnam | Tim "CBRE Vietnam" tren YouTube | Kenh phu hop de theo doi research va xu huong BDS tai Ha Noi |
 
 ### Ha Noi
 
@@ -222,6 +233,7 @@
 | VARS Media | Tim "VARS Media" tren YouTube | Kenh Hoi Moi gioi BDS Viet Nam |
 | Review Chung Cu Ha Noi | Tim "review chung cu Ha Noi" tren YouTube | Nhieu kenh review can ho |
 | Nha Dat Ha Noi 24h | Tim "nha dat Ha Noi 24h" tren YouTube | Kenh tin rao nha dat |
+| HanoiBDS | https://www.youtube.com/channel/UCQl4eBq1hQR-0uIx2VShaZw | Kenh tong hop video nha dat/du an tai Ha Noi |
 
 ---
 
@@ -258,6 +270,7 @@
 | @datnenhanoi | Tim "@datnenhanoi" tren TikTok | Dat nen khu vuc Ha Noi |
 | @canhohanoi | Tim "@canhohanoi" tren TikTok | Review can ho chung cu Ha Noi |
 | @moigioibdshanoi | Tim "@moigioibdshanoi" tren TikTok | Moi gioi BDS khu vuc Ha Noi |
+| @vutrubatdongsan | https://www.tiktok.com/@vutrubatdongsan | Kenh review/phan tich BDS, thay trong sameAs cua OneHousing |
 
 ---
 
