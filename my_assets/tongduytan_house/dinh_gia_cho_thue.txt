@@ -8,7 +8,6 @@ Mục tiêu:
 
 Nguồn tham khảo:
 - Chỉ sử dụng các nguồn được liệt kê trong `my_assets/tongduytan_house/danh_sach_cac_page_bds.md`.
-- Chỉ dùng URL của từng tin đăng cụ thể (`individual listing`), không dùng trang search result, trang danh mục, trang tổng hợp, bài phân tích thị trường, forum thread, Facebook group/page feed, video hoặc nội dung không phải tin đăng riêng lẻ.
 - Loại bỏ mọi nguồn hoặc tin đăng không có thời gian đăng tin rõ ràng, hoặc không kiểm chứng được là đăng trong vòng 3 tháng trở lại đây tính từ ngày thực hiện.
 - Không bắt buộc phải dùng hết mọi nguồn trong danh sách; chỉ dùng các nguồn nào thực sự có tin đăng phù hợp và đạt tiêu chí trên.
 - Trong kết quả phải ghi rõ ngày thực hiện và cửa sổ thời gian đã dùng để lọc tin.
